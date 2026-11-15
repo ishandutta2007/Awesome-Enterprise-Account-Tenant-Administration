@@ -1,6 +1,6 @@
 # Awesome-Enterprise-Account-Tenant-Administration
 
-# Top Enterprise Account & Tenant Administration Ecosystem
+## Top Enterprise Account & Tenant Administration Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Multi-Tenant Identity, Directory Synchronization & Self-Hosted IGA*  
