@@ -124,7 +124,7 @@ We welcome community contributions! Please help us maintain accurate and compreh
 
 1. 🍴 Fork this repository.
 2. 🌿 Create a feature branch (`git checkout -b feature/new-identity-tool`).
-3. 📝 Update or add entries to `README.md` adhering to the table format (include specific starting prices, exact trial conditions, and GitHub Stars_Badges).
+3. 📝 Update or add entries to `README.md` adhering to the table format (include specific starting prices, exact trial conditions, and GitHub_Stars_Badges).
 4. 🚀 Push changes and submit a clean Pull Request with a brief justification.
 
 ---
